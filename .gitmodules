@@ -1,0 +1,3 @@
+[submodule "bea.androidtools"]
+	path = bea.androidtools
+	url = git@github.com:brunojensen/bea.androidtools.git
